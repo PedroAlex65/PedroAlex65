@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Me chamo Pedro Alex, faço faculdade de Analises e Desenvolvimento de Sistemas, sou um Programador Front-End em formação, atualmente faço projetos utilizando:
+Me chamo Pedro Alex, faço faculdade de Analises e Desenvolvimento de Sistemas e estudo no DevClub, sou um Programador Front-End em formação, atualmente faço projetos utilizando:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo" height="30px" width="90px" />
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" height="30px" width="90px"/>
