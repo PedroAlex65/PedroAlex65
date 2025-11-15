@@ -1,8 +1,4 @@
-<h2>Olá, me chamo Pedro Alex e sou Desenvolvedor com 1 ano de experiencia, focado no
-desenvolvimento front-end.
-Estou cursando Analises e Desenvolvimento de Sistemas na Estácio.
-Sou um rapaz apaixonado por tecnologia, comunicativo, e muito curioso, e estou disposto a
-participar de novos desafios.
+<h2>Olá, me chamo Pedro Alex, Desenvolvedor de Software em Transição de Carreira. Foco em Back-end Java, POO e Sistemas.
 </h2>
 
 
